@@ -202,7 +202,7 @@ defaults:
   # cv
   - scope:
       path: ""
-      type: CV
+      type: cv
     values:
       layout: single
       author_profile: true
@@ -211,7 +211,7 @@ defaults:
   # research
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
@@ -220,7 +220,7 @@ defaults:
   # Publications
   - scope:
       path: ""
-      type: Publications
+      type: publications
     values:
       layout: single
       author_profile: true
