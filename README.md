@@ -4,6 +4,6 @@ Welcome to my academic homepage! I am a graduate student in Economics at Keio Un
 
 ## Research Interests
 - Macroeconomics (Labor, Trade, Structural transformation)
-- Applied Economics
+- Applied Economics　(Machine learning, Bayesian statistics)
 
 For more details, please visit: [My Homepage](https://ichikawa-satoshi.github.io/Homepage/)
