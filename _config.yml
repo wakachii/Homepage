@@ -8,9 +8,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Satoshi's Homepage"
+title                    : "Satoshi's Home"
 title_separator          : "-"
-name                     : "Home"
+name                     : "Satoshi's Home"
 description              : "Personal website for research and academic activities"
 url                      : "https://ichikawa-satoshi.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
