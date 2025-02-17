@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-title                    : "Satoshi Ichikawa"
+title                    : "Satoshi Ichikawa's Homepage"
 description              : "Personal website for research and academic activities"
 url                      : "https://ichikawa-satoshi.github.io"
 baseurl                  : ""
