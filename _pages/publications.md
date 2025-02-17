@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Macroeconomics
-==
-
-Applied Macroeconomics
+Publications
 ==

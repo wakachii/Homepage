@@ -196,7 +196,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _cv
+  # cv
   - scope:
       path: ""
       type: CV
@@ -205,10 +205,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # research
   - scope:
       path: ""
       type: Research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+  # Publications
+  - scope:
+      path: ""
+      type: Publications
     values:
       layout: single
       author_profile: true
