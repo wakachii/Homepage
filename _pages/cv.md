@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-2025-    : PhD, - 
-2024-2025: MA in Economics, Keio University, Tokyo, Japan (early completion)
-2020-2024: BA in Economics, Keio University, Tokyo, Japan
+* 2025-    : PhD, - 
+* 2024-2025: MA in Economics, Keio University, Tokyo, Japan (early completion)
+* 2020-2024: BA in Economics, Keio University, Tokyo, Japan
 
 Work experience
 ======
