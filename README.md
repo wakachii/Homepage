@@ -6,4 +6,4 @@ Welcome to my academic homepage! I am a graduate student in Economics at Keio Un
 - Macroeconomics (Labor, Trade, Structural transformation)
 - Applied Economics
 
-For more details, please visit: [ichikawa-satoshi.github.io](https://ichikawa-satoshi.github.io)
+For more details, please visit: [My Homepage](https://ichikawa-satoshi.github.io/Homepage/)
