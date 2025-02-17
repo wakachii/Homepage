@@ -5,15 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-title                    : "Satoshi's Homepage"
-description              : "Personal website for research and academic activities"
-url                      : "https://ichikawa-satoshi.github.io"
-baseurl                  : ""
-repository               : "https://github.com/Ichikawa-Satoshi/ichikawa-satoshi.github.io"
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Satoshi Ichikwa"
+title                    : "Satoshi's Homepage"
 title_separator          : "-"
 name                     : "Satoshi Ichikawa"
 description              : "Personal website for research and academic activities"
