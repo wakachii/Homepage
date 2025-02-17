@@ -173,12 +173,12 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  CV:
+  cv:
     output: true
-    permalink: /:collection/:path/
-  Research:
+    permalink: /cv/
+  research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /research/
 
 
 # These settings control how pages and collections are included in the site
